@@ -1,0 +1,2 @@
+twig:
+    path: '%kernel.project_dir%/templates'

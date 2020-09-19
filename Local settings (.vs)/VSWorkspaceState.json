@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\docker",
+    "\\docker\\mysql",
+    "\\docker\\nginx"
+  ],
+  "SelectedNode": "\\docker\\nginx\\default.conf",
+  "PreviewInSolutionExplorer": false
+}
